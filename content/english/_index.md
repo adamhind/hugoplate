@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Streamline Your Operations with Automation"
-  content: "At FF Automation, we understand that time is money, and every minute spent on manual tasks is a missed opportunity for growth. That's why we're here to revolutionize the way you do business through automation."
+  content: "At Flo Automation, we understand that time is money, and every minute spent on manual tasks is a missed opportunity for growth. That's why we're here to revolutionize the way you do business through automation."
   image: "/images/banner.png"
   button:
     enable: true
@@ -13,7 +13,6 @@ banner:
 features:
   - title: "What We Offer:"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
     bulletpoints:
       - "__Tailored Automation Solutions:__ No two businesses are alike, which is why we offer customized automation solutions designed to fit your specific needs. Whether you're in manufacturing, finance, healthcare, or any other industry, we have the expertise to streamline your processes efficiently."
       - "__Increased Efficiency:__ Say goodbye to tedious, repetitive tasks. Our automation solutions are designed to optimize your workflows, freeing up your team's time to focus on more strategic initiatives. By automating routine processes, you'll experience increased productivity and faster turnaround times."

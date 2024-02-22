@@ -17,11 +17,6 @@ name = "Blog"
 url = "blog/"
 weight = 2
 
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "contact/"
-
 
 # footer menu
 [[footer]]
