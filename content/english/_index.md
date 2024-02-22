@@ -1,18 +1,26 @@
 ---
 # Banner
 banner:
-  title: "Streamline Your Operations with Automation"
-  content: "At Flo Automation, we understand that time is money, and every minute spent on manual tasks is a missed opportunity for growth. That's why we're here to revolutionize the way you do business through automation."
-  image: "/images/banner.png"
+  title: "Automation and DevOps Specialists"
+  content: "We understand that time is money, and every minute spent on manual tasks is a missed opportunity for growth. That's why we're here to revolutionize the way you do business through automation."
+  image: "/images/banner.jpg"
   button:
     enable: true
     label: "Get Automated Now"
-    link: "/contact"
+    link: "https://adut765ux68.typeform.com/to/y8UaF5Sx"
 
 # Features
 features:
+  - title: "What is Automation"
+    image: "/images/waves.jpg"
+    content: "Automation is the process of using technology to perform tasks or processes with minimal human intervention. These tasks can range from simple, repetitive actions to complex, rule-based workflows. Automation is designed to streamline operations, improve efficiency, and reduce manual errors, ultimately freeing up valuable time and resources for more strategic initiatives."
+    button:
+      enable: true
+      label: "Get a health check now"
+      link: "https://adut765ux68.typeform.com/to/y8UaF5Sx"
+
   - title: "What We Offer:"
-    image: "/images/service-1.png"
+    image: "/images/service-4.jpg"
     bulletpoints:
       - "__Tailored Automation Solutions:__ No two businesses are alike, which is why we offer customized automation solutions designed to fit your specific needs. Whether you're in manufacturing, finance, healthcare, or any other industry, we have the expertise to streamline your processes efficiently."
       - "__Increased Efficiency:__ Say goodbye to tedious, repetitive tasks. Our automation solutions are designed to optimize your workflows, freeing up your team's time to focus on more strategic initiatives. By automating routine processes, you'll experience increased productivity and faster turnaround times."
@@ -22,7 +30,20 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "/contact"
+      link: "https://adut765ux68.typeform.com/to/y8UaF5Sx"
+
+  - title: "Services"
+    image: "/images/service-2.png"
+    bulletpoints:
+      - "__Health Check:__ Get a health check of your company to see if there are areas in your business you can improve in relation to automation"
+      - "__Support:__ We work with you to find and implemeent the best tools or rethink strategy to deliver automation in your business"
+      - "__DevOps:__  we can assist you in aligning your DevOps strategy with industry best practices, to ensure your processes are as optimised as possible for your teams. In addition, we will help to diagnose any challenges being faced within your current toolset."
+      - "__Bespoke tooling:__ Custom tooling built for your purpose to solve your business problems."
+     
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Why Choose Us"
     image: "/images/service-2.png"
@@ -37,3 +58,4 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 ---
+
