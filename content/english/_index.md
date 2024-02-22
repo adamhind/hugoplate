@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Welcome to FF Automation – Streamline Your Operations with Automation"
+  title: "Streamline Your Operations with Automation"
   content: "At FF Automation, we understand that time is money, and every minute spent on manual tasks is a missed opportunity for growth. That's why we're here to revolutionize the way you do business through automation."
   image: "/images/banner.png"
   button:
@@ -11,43 +11,30 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "What We Offer:"
     image: "/images/service-1.png"
     content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "__Tailored Automation Solutions:__ No two businesses are alike, which is why we offer customized automation solutions designed to fit your specific needs. Whether you're in manufacturing, finance, healthcare, or any other industry, we have the expertise to streamline your processes efficiently."
+      - "__Increased Efficiency:__ Say goodbye to tedious, repetitive tasks. Our automation solutions are designed to optimize your workflows, freeing up your team's time to focus on more strategic initiatives. By automating routine processes, you'll experience increased productivity and faster turnaround times."
+      - "__Cost Savings:__ Manual processes are not only time-consuming but also costly. With our automation solutions, you'll reduce labor costs and minimize errors, leading to significant savings for your business. Invest in automation today and watch your bottom line improve."
+      - "__Scalability:__ As your business grows, so do your needs. Our automation solutions are scalable, allowing you to easily adapt to changing demands without disrupting your operations. Whether you're expanding your product line, entering new markets, or ramping up production, we've got you covered"
+      - "__Expert Support:__ We're not just here to provide you with software – we're your partners in success. Our team of automation experts will work closely with you to understand your business goals and challenges, ensuring that our solutions are always aligned with your objectives. From implementation to ongoing support, we're with you every step of the way."
     button:
       enable: false
       label: "Get Started Now"
-      link: "#"
+      link: "/contact"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Why Choose Us"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Experience: With years of experience in automation and process optimization, we have the knowledge and expertise to deliver results."
+      - "Innovation: We're constantly staying ahead of the curve, leveraging the latest technologies and best practices to drive innovation in automation."
+      - "Client Satisfaction: Our track record speaks for itself. We've helped countless businesses across industries achieve their automation goals and exceed their expectations."
+      - "Flexibility: We understand that every business is unique, which is why we offer flexible solutions that can be tailored to your specific requirements."
+      - "Results-Driven: Your success is our success. We're committed to delivering tangible results that make a real difference to your bottom line."
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
 ---
