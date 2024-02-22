@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Welcome to FF Automation – Streamline Your Operations with Automation"
+  content: "At FF Automation, we understand that time is money, and every minute spent on manual tasks is a missed opportunity for growth. That's why we're here to revolutionize the way you do business through automation."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Get Automated Now"
+    link: "/contact"
 
 # Features
 features:
